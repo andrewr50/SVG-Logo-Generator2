@@ -14,8 +14,8 @@ First we need to install our dependencies. We will start with node.js by enterin
 Once the dependencies are installed start the program by entering `node index.js`in the terminal. The last step is to follow the prompts and get your custom SVG.
 
 ## Authors
- 
-[andrewr50](https://github.com/andrewr50)
+
+Github:[andrewr50](https://github.com/andrewr50)
 
 ## License
 
