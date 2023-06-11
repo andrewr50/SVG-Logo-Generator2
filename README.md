@@ -15,7 +15,7 @@ Once the dependencies are installed start the program by entering `node index.js
 
 ## Authors
 
-Github:[andrewr50](https://github.com/andrewr50)
+Github: [andrewr50](https://github.com/andrewr50)
 
 ## License
 
